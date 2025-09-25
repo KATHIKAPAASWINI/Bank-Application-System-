@@ -1,7 +1,6 @@
-🏦 Bank Application System
+Employee Management  System
 📌 Overview
-
-The Bank Application System is a console-based Java application designed to manage employee records within a banking environment. It allows users to perform CRUD (Create, Read, Update, Delete) operations on employee data, providing a foundational understanding of object-oriented programming and file handling in Java.
+Employee Management  System is a console-based Java application designed to manage employee records within a banking environment. It allows users to perform CRUD (Create, Read, Update, Delete) operations on employee data, providing a foundational understanding of object-oriented programming and file handling in Java.
 
 🚀 Features
 
